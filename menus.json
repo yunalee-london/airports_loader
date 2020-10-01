@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Starter",
+        "restaurant_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Main",
+        "restaurant_id": 1
+    }, 
+    {
+        "id": 3,
+        "title": "Dessert",
+        "restaurant_id": 1
+    },
+    {
+        "id": 4,
+        "title": "Dim Sum",
+        "restaurant_id": 2
+    },
+    {
+        "id": 5,
+        "title": "Main",
+        "restaurant_id": 2 
+    },
+    {
+        "id": 6,
+        "title": "Drink",
+        "restaurant_id": 2
+    }, 
+    {
+        "id": 7,
+        "title": "Drink",
+        "restaurant_id": 3
+    },
+    {
+        "id": 8,
+        "title": "Pasta",
+        "restaurant_id": 3
+    }, {
+        "id": 9,
+        "title": "Pizza",
+        "restaurant_id": 3
+    },
+    {
+        "id": 10,
+        "title": "Dessert",
+        "restaurant_id": 3
+    }
+
+]

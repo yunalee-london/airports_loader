@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "jest": "^26.4.2",
+    "sqlite3": "^5.0.0"
+  }
+}
